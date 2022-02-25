@@ -8,7 +8,7 @@ public class StringTrim {
 		
 		
 		
-			System.out.println(s+"mmmmmm");//without trim
+		/*	System.out.println(s+"mmmmmm"); without trim */
 		
 			
 		

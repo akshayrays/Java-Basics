@@ -1,4 +1,4 @@
-package Test;
+package Exercise;
 
 public class Triangle {
 
